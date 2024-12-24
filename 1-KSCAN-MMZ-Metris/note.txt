@@ -1,0 +1,38 @@
+Metris company now named Nikon is no longer serving K-Scan MMZ
+
+################################
+K-Scan MMZ Specifications:
+The K-Scan MMZ is a portable 3D scanning solution that combines the Metris ModelMaker Z laser scanner with a K-Series Optical CMM for tracking1.
+Key Features:
+Portable scanner with minimal set-up time for on-site scanning
+Optical tracking allows walk-around scanning without mechanical constraints
+Non-contact scanning suitable for flexible or fragile parts
+Scanner Specifications:
+Available in two models: K-Scan MMZ70 and K-Scan MMZ140
+Max stripe length: 75mm (MMZ70) or 145mm (MMZ140)
+Single point accuracy: 50 μm (MMZ70) or 60 μm (MMZ140)
+Typical length accuracy (with K610): ±70 + 25L μm
+Scanning speed: 30 stripes/s (23,040 points/s)
+Laser class: 2M
+Working Range:
+Large working range from 1.6 to 6m, enabling measurements on full cars
+Depth of field: 100mm (MMZ70) or 140mm (MMZ140)
+Stand-off distance: 58mm (MMZ70) or 78mm (MMZ140)
+Similar 3D Measurement Devices
+While not the K-Scan MMZ, here are specifications for a similar, more recent 3D scanner that may provide context:
+KSCAN-Magic 3D Scanner
+Key Specifications:2
+Accuracy: Up to 0.020 mm (0.0008 in)
+Scanning rate: Up to 4,150,000 measurements/s
+Scanning area: 1440 mm × 860 mm (57.0 in × 33.9 in)
+Resolution: Up to 0.010 mm (0.0004 in)
+Depth of field: 925 mm (36.4 in)
+Stand-off distance: 300 mm (11.8 in)
+Operating temperature: -10°C to 40°C (14°F to 104°F)
+Volumetric Accuracy:
+Working alone: 0.015 mm + 0.030 mm/m
+With 1m reference bar: 0.015 mm + 0.020 mm/m
+With MSCAN-L15: 0.015 mm + 0.012 mm/m
+
+Pricing
+The KSCAN20 3D Scanner, which is a more recent model, is priced at $6000
